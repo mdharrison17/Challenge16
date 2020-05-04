@@ -1,0 +1,43 @@
+Trustworthiness of vine reviews:
+
+Number of reviews total: 4,366,324
+
+Number of Vine reviews: 895
+
+Number of non-Vine reviews: 4,365,429
+
+Number of 5 Star reviews total: 2,639,539
+
+Number of 5 Star Vine reviews: 462
+
+Number of 5 Star non-Vine reviews: 2,639,077
+
+Average rating all reviews: 4.24
+
+Average rating Vine: 4.36
+
+Average rating non-Vine: 4.24
+
+Number of helpful reviews Vine: 2,327
+
+Number of helpful reviws non-Vine: 3,824,040
+
+Count of star votes vine: 5	462
+			  4	328
+			  3	75
+			  2	25
+			  1	5
+
+Count of star votes non-vine : 	5	2639077
+				4	847364
+				3	404078
+				2	242794
+				1	232116
+
+Conclusion:
+
+The number of vine votes compared to non vine votes is huge.  Vine votes were only 2.05% of overall votes.  I think the data is skewed to begin with.
+None the less, from the statistics gathered 51.62% of vine votes were 5-star and 60.45% of non-vine votes were 5-star showing on average non paid voters
+tended to give a higher rating than paid voters.  The average rating for vine reviews is 4.36 and non-vine is 4.24, those are both close in overall average rating
+for both types of reviews.  I would say the vine reviews are not biased. 
+
